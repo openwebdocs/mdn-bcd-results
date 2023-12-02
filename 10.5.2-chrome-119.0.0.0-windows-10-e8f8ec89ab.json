@@ -1,0 +1,1 @@
+{"__version":"10.5.2","extensions":[],"results":{"https://mdn-bcd-collector.gooborg.com/tests/api/WorkerNavigator/clearAppBadge":[{"exposure":"Worker","name":"api.WorkerNavigator.clearAppBadge","result":false}]},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
