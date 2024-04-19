@@ -1,0 +1,1 @@
+{"__version":"10.10.5","extensions":[],"results":{"https://mdn-bcd-collector.gooborg.com/tests/api/Clipboard/readText":[{"exposure":"Window","name":"api.Clipboard.readText","result":true}]},"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0"}
